@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name         Avali Language Switcher
+// @namespace    http://tampermonkey.net/
+// @version      2025-04-15
+// @match        *://*/*
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    document.body.lang = 'avali';
+})();
