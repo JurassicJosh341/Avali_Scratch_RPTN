@@ -17,3 +17,7 @@ instructions:
 
 you can reference to images is the Avali_Scratch_RPTN/images folder
 
+tamper monkey can be found here:
+https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
+this is the Firefox exclusive instructions Sorry Gang 💔
